@@ -86,8 +86,8 @@ def create_json_data(file_name,articles):
 #Scrap Data 
 
 # search_data = "नेपाली"
-# search_data = "दैलेख"
-search_data = "नेपालि"
+search_data = "दैलेख"
+# search_data = "नेपालि"
 # search_data = "मरभुमि"
 
 
